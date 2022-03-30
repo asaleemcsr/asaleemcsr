@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @asaleemcsr
-- 👀 I’m interested in testing stuff on this test account! :D
+- 👀 I’m interested in testing stuff on this test account!
 - Testing testing, GitBook Sync
 - GitBook, sync this for me too, thx.
 - I love my sync.
