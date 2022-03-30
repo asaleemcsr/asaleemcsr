@@ -3,6 +3,7 @@
 - Testing testing, GitBook Sync
 - GitBook, sync this for me too, thx.
 - I love my sync.
+- Syncs are cool, you should love syncs too.
 
 <!---
 asaleemcsr/asaleemcsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
