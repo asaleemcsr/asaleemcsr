@@ -5,4 +5,4 @@ structure:
     summary: SUMMARY.md
 
 redirects:  
-    readme: dontreadme.md
+    gitsync: dontreadme.md
